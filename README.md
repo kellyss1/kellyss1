@@ -51,7 +51,7 @@ Me gusta aprender constantemente y aplicar mis conocimientos en proyectos reales
 
 <div align="center">
 
-![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellyledesma&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyledesma&layout=compact&theme=tokyonight)
+![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellyss1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyss1&layout=compact&theme=tokyonight)
 
 </div>
