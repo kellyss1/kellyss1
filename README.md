@@ -46,10 +46,10 @@ Me gusta aprender constantemente y aplicar mis conocimientos en proyectos reales
 
 > 🌱 *“El aprendizaje continuo está la clave para la innovación.”*
 ---
-
-## 📊 Mis estadísticas de GitHub
+## 📊 Lenguajes más usados
 
 <div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyss1&layout=compact&theme=tokyonight)
 
 </div>
