@@ -45,3 +45,13 @@ Me gusta aprender constantemente y aplicar mis conocimientos en proyectos reales
 ---
 
 > 🌱 *“El aprendizaje continuo está la clave para la innovación.”*
+---
+
+## 📊 Mis estadísticas de GitHub
+
+<div align="center">
+
+![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kellyledesma&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyledesma&layout=compact&theme=tokyonight)
+
+</div>
