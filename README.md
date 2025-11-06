@@ -32,7 +32,6 @@ Me gusta aprender constantemente y aplicar mis conocimientos en proyectos reales
 ## 🚀 Áreas de interés
 - Desarrollo de software y aplicaciones
 - Inteligencia Artificial y Machine Learning
-- Ciencia de datos
 - Modelado 3D y gráficos computacionales
 - Diseño y desarrollo web
 
